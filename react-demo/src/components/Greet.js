@@ -1,3 +1,5 @@
+//props are immutable -> you cannot assign props.name = something
+
 export const Greet = (props) => {
     return( 
         <div>

@@ -1,0 +1,7 @@
+.success {
+    color: green;
+}
+
+/* 
+Classes are locally scoped by default when using modules and prevent errors 
+*/ 
